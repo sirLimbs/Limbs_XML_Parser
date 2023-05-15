@@ -33,9 +33,10 @@ This script requires the following Python packages:
 # Future Improvements:
 Some possible improvements to this script include:
 
-Adding more options for output formatting (e.g. JSON, CSV)
-Allowing the user to specify which elements they want to extract
-Adding error handling for invalid XML files
+- Adding more options for output formatting (e.g. JSON, CSV)
+- Allowing the user to specify which elements they want to extract
+- Adding error handling for invalid XML files
+- Add a XML Formatting button
 # License:
 This script is licensed under the MIT License. See LICENSE for more information.
 
