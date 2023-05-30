@@ -19,10 +19,12 @@ Diff: (XML File Comparer)
     (Use the packed executable located in the dist folder)
     or
     - Clone this repository to your local machine
-    - Install the required Python packages by running pip install -r requirements.txt in your terminal
-    - Run the script by running python main.py in your terminal
-    - Select the XML file you want to parse using the file dialog that appears
-    - The script will output the parsed information in the text box on the GUI
+    - Install PyInstaller
+    - `pip install pyinstaller`
+    - Open a terminal or command prompt and navigate to the directory where you cloned this repo.
+    - Compile the code using PyInstaller
+    - `pyinstaller --onefile xml_editor.py`
+    - This command will create a single executable file in the dist directory.
 
 # Dependencies:
 This script requires the following Python packages:
