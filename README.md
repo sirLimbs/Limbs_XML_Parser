@@ -45,6 +45,6 @@ This script is licensed under the MIT License. See LICENSE for more information.
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 # Credits:
-This script was created by Limbs. If you have any questions or feedback, feel free to contact me on discord @Limbs#1915
+This script was created by Limbs. If you have any questions or feedback, feel free to contact me on discord .limbs
 
 
